@@ -1,6 +1,6 @@
-# [Omnifood project](https://omnifood-senkao.netlify.app/)
+# Omnifood project
 ## Project Overview
-Omnifood is an AI-powered food subscription service designed to provide healthy meals 365 days a year, tailored to individual tastes and nutritional needs. This project consists of a responsive website showcasing the features, testimonials, and pricing details of the service.
+[Omnifood](https://omnifood-senkao.netlify.app/) is an AI-powered food subscription service designed to provide healthy meals 365 days a year, tailored to individual tastes and nutritional needs. This project consists of a responsive website showcasing the features, testimonials, and pricing details of the service.
 
 ## Features
 - Responsive design for seamless viewing on all devices.
